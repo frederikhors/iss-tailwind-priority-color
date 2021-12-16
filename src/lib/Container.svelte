@@ -2,4 +2,4 @@
 	import Span from './Span.svelte';
 </script>
 
-<Span class="text-blue-600">I should be BLUE!</Span>
+<Span className="text-blue-600">I should be BLUE!</Span>
